@@ -28,3 +28,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prayas248&show_icons=true&locale=en&layout=compact" alt="prayas248" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prayas248&show_icons=true&locale=en" alt="prayas248" /></p>
+<p align="center">
+  <a href="https://holopin.io/@prayas248">
+    <img src="https://holopin.me/prayas248" alt="Holopin Badges" width="850">
+  </a>
+</p>
+
+
