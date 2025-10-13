@@ -2,9 +2,7 @@
 <h3 align="center">A tech enthusiast juggling Development, DevOps, and a low-key obsession with startup ideas.</h3>
 
 - 🔭 I’m currently working on **Morsel**
-
-- 👨‍💻 All of my projects are available at [https://prayas.lancerx.online/](https://prayas.lancerx.online/)
-
+- 
 - 💬 Ask me about **ReactJS,ExpressJS,Docker,Kubernetes,AWS**
 
 - 📫 How to reach me **prayasyadav248@gmail.com**
