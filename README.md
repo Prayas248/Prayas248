@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **prayasyadav248@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16mbgZ3yydkRpUKo20B9R4WxFyofWR8O5/view?usp=drive_link](https://drive.google.com/file/d/16mbgZ3yydkRpUKo20B9R4WxFyofWR8O5/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1iPz6oDHnIWU7gtEPkmWesWiYddV5ufyF/view](https://drive.google.com/file/d/1iPz6oDHnIWU7gtEPkmWesWiYddV5ufyF/view)
 
 - ⚡ Fun fact **I believe Git conflicts are like life: messy but solvable.**
 
